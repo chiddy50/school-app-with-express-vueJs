@@ -1,0 +1,77 @@
+.button-pill {
+    border-radius: 1.6rem;
+}
+
+.button {
+    outline: none;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    padding: 1rem 2rem;   
+    display: inline-block;
+    border: none;
+    background-color: #ddd;
+    margin: 0 1rem 1rem 0;
+    /* border-radius: 4px; */
+    font-weight: 500;
+    color: #ffffff;
+    letter-spacing: 1px;
+    transition: all 0.3s ease-out;
+}
+
+.button-lg{
+    padding: 1.4rem 4rem;
+    font-size: 1.5rem;
+}
+
+.button-sm{
+    padding: .5rem 1rem;   
+}
+
+.button-md{
+    padding: 1rem 2rem;   
+}
+
+
+/* Button colors */
+.btn--yellow {
+    background-color: #ffae01;
+}
+
+.btn--red{
+    background-color: #dc3545;
+}
+
+.btn--dark-blue{
+    background-color: #043063;
+}
+
+
+.btn--red:hover{
+    background-color: #ffae01;
+}
+
+.btn--dark-blue:hover{
+    background-color: #ffae01;
+}
+
+.btn--yellow:hover{
+    background-color: #043063;
+}
+
+.btn--teal{
+    background-color: #20c997;
+}
+
+/* Button colors End */
+
+textarea{
+    resize: vertical;
+}
+
+
+
