@@ -1,4 +1,4 @@
-# app-two
+# School Management App
 
 ## Project setup
 ```
